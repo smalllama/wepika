@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Les 8 étapes dans la création de votre boutique e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/etapes-creation-boutique</link>
+    <description>Avant de lancer votre site e-commerce, vous devez consolider les bases de votre projet et définir votre stratégie marketing.</description>
+     <pubDate>Fri, 28 Aug 2020 16:25:29 +0200</pubDate>
+ <dc:creator>Caroline Phillips</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/etapes-creation-boutique</guid>
+  </item>
+  <item>
+    <title>Cinq erreurs UX qui font fuir vos clients</title>
+    <link>https://www.prestashop.com/fr/blog/erreurs-ux-ecommerce</link>
+    <description>Vous en avez assez des utilisateurs qui quittent rapidement votre site web ou votre application ? Vous ne comprenez pas pourquoi ?</description>
+     <pubDate>Tue, 25 Aug 2020 16:48:56 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/erreurs-ux-ecommerce</guid>
+  </item>
+  <item>
+    <title>Cinq astuces pour créer une image de marque unique pour votre e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/astuces-branding-e-commerce</link>
+    <description>Essentielle pour rayonner sur la toile, l’image de marque joue un rôle clé dans votre stratégie digitale.</description>
+     <pubDate>Wed, 19 Aug 2020 09:32:15 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/astuces-branding-e-commerce</guid>
+  </item>
+  <item>
+    <title>La Minute Marchand, avec Dominique Voyer, directrice de Deals des Îles</title>
+    <link>https://www.prestashop.com/fr/blog/minute-marchand-deals-des-iles</link>
+    <description> « Même si nous sommes leader sur notre marché.</description>
+     <pubDate>Tue, 18 Aug 2020 10:57:49 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/minute-marchand-deals-des-iles</guid>
+  </item>
+  <item>
+    <title>Cinq astuces pour obtenir plus d’avis clients sur vos produits</title>
+    <link>https://www.prestashop.com/fr/blog/astuces-avis-clients</link>
+    <description>Lorsqu’il s’agit d’augmenter vos ventes sur votre site e-commerce, les avis clients jouent un rôle crucial.</description>
+     <pubDate>Mon, 17 Aug 2020 16:38:10 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/astuces-avis-clients</guid>
+  </item>
+  <item>
+    <title>Une page de pré-lancement pour la vente en ligne : une technique pour booster votre audience</title>
+    <link>https://www.prestashop.com/fr/blog/pre-lancement-booster-audience</link>
+    <description>Une page de pré-lancement, vous connaissez ?</description>
+     <pubDate>Fri, 14 Aug 2020 14:18:27 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/pre-lancement-booster-audience</guid>
+  </item>
+  <item>
+    <title>Parlez-vous data ?</title>
+    <link>https://www.prestashop.com/fr/blog/data-plateforme-e-commerce</link>
+    <description>Voici ce que la data peut faire pour votre plateforme e-commerce</description>
+     <pubDate>Wed, 12 Aug 2020 11:24:34 +0200</pubDate>
+ <dc:creator>Caroline Phillips</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/data-plateforme-e-commerce</guid>
+  </item>
+  <item>
+    <title>La Minute Marchand, avec Jérôme Tré-Hardy de maPlatine.com</title>
+    <link>https://www.prestashop.com/fr/blog/minute-marchand-maplatine</link>
+    <description>« Nous avons la chance d’être sur un secteur qui est assez préservé de la présence des très gros acteurs de l’e-commerce parce que nous sommes sur un marché de niche »</description>
+     <pubDate>Tue, 11 Aug 2020 09:57:07 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/minute-marchand-maplatine</guid>
+  </item>
+  <item>
+    <title>Pourquoi faire appel à l’influence marketing pour booster son image de marque ?</title>
+    <link>https://www.prestashop.com/fr/blog/influence-marketing-marque</link>
+    <description>Pourquoi s’intéresser au marketing d’influence ? Pourquoi l’inclure à tout prix dans sa stratégie marketing ? La réponse est simple : son efficacité !</description>
+     <pubDate>Mon, 10 Aug 2020 14:53:12 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/influence-marketing-marque</guid>
+  </item>
+  <item>
+    <title>Quel programme de fidélité proposer à vos clients ?</title>
+    <link>https://www.prestashop.com/fr/blog/programme-fidelite-clients</link>
+    <description>Gérer une boutique en ligne n’est pas de tout repos et les e-commerçants doivent constamment faire face à des défis de taille. Le principal challenge ?</description>
+     <pubDate>Wed, 05 Aug 2020 12:12:26 +0200</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/programme-fidelite-clients</guid>
+  </item>
+  </channel>
+</rss>
